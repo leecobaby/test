@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1671.2">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    span.s1 {font: 12.0px 'PingFang SC'}
+  </style>
+</head>
+<body>
+<p class="p1">{</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"obfsParam" : "",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"weight" : 1551533465,</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"allowInsecure" : false,</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"title" : "<span class="s1">共享</span>2",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"host" : "https:\/\/raw.githubusercontent.com\/AmazingDM\/sub\/master\/ssrshare.com",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"ota" : false,</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"file" : "",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"uuid" : "D23BB01F-F15A-40A6-BDB8-8518ED2AC766",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"method" : "aes-256-cfb",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"flag" : "WW",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"obfs" : "",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"type" : "Subscribe",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"user" : "",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"protoParam" : "",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"tls" : false,</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"port" : 0,</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"proto" : "",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"password" : "",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"data" : "",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"ping" : 0</p>
+<p class="p1">}</p>
+</body>
+</html>
